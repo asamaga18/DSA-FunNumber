@@ -1,0 +1,121 @@
+Enter a Fun Number: 
+0
+
+
+Number of Digits: 1
+
+Sum of Digits: 0
+
+Perfect Number: false
+
+Prime Number: false
+
+Reversed Number: 0
+
+
+
+Enter a Fun Number: 
+2
+
+
+Number of Digits: 1
+
+Sum of Digits: 2
+
+Perfect Number: false
+
+Prime Number: true
+
+Reversed Number: 2
+
+
+
+Enter a Fun Number: 
+6
+
+
+Number of Digits: 1
+
+Sum of Digits: 6
+
+Perfect Number: true
+
+Prime Number: false
+
+Reversed Number: 6
+
+
+
+Enter a Fun Number: 
+23
+
+
+Number of Digits: 2
+
+Sum of Digits: 5
+
+Perfect Number: false
+
+Prime Number: true
+
+Reversed Number: 32
+
+
+
+Enter a Fun Number: 
+-1
+End
+
+
+// SECOND RUN (more large numbers)
+Enter a Fun Number: 
+123456789
+
+
+Number of Digits: 9
+
+Sum of Digits: 45
+
+Perfect Number: false
+
+Prime Number: false
+
+Reversed Number: 987654321
+
+
+
+Enter a Fun Number: 
+7919
+
+
+Number of Digits: 4
+
+Sum of Digits: 26
+
+Perfect Number: false
+
+Prime Number: true
+
+Reversed Number: 9197
+
+Enter a Fun Number: 
+33550336
+
+
+Number of Digits: 8
+
+Sum of Digits: 28
+
+Perfect Number: true
+
+Prime Number: false
+
+Reversed Number: 63305533
+
+
+Enter a Fun Number: 
+-86
+End
+
+
+
